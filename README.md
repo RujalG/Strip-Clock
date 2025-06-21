@@ -14,7 +14,8 @@ Strip Clock is a minimalist and modern digital clock designed using HTML, CSS, a
 - JavaScript (Vanilla) – Real-time time updates
 
 📸 Preview
-![image](https://github.com/user-attachments/assets/54682db1-17c7-4394-99b0-f362a3403563)
+![image](https://github.com/user-attachments/assets/cb64e3aa-2ced-472a-a85e-adb8791b518a)
+
 
 🚀 Live Demo: [View Site]
 **strip-clock.netlify.app**
